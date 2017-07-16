@@ -1,0 +1,15 @@
+Helpful commands
+
+`pwd` -> shows what folder you're in and displays it in terminal
+
+`ls` -> lists the files in the folder you're in in terminal
+
+`cd NAME_OF_FOLDER` -> moves into the folder named NAME_OF_FOLDER
+for example if in a folder we had another folder named "Hi" we could go into that folder in terminal using `cd hi`
+
+`cd ..` goes up a folder. if you were in the folder /Users/Desktop/helpfulhints and typed in this command, you would be in
+/Users/Desktop (so you go up)
+
+`mkdir something` -> this creates a folder named something in the folder you are currently in
+
+`touch something.txt` -> this creates a file named something.txt in the folder you're currently in

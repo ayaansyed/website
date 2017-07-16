@@ -1,0 +1,58 @@
+.navigation a {
+    margin: 5px;
+    border: none;
+    color: rgb(35, 133, 164);
+    padding: 15px 32px;
+    text-align: right;
+    display: inline-block;
+    background-color: white);
+    font-family: comic sans ms;}
+
+.header {
+  margin:
+}
+
+.header h1 {
+
+}
+
+.header .title {
+  color:rgb(120, 145, 67);
+  text-align: left ;
+  font-family: comic sans ms;
+  margin-top: 90px
+}
+
+.header p {
+
+text-align: left;
+color: rgb(10, 10, 10);
+font-family: comic sans ms
+}
+
+.contact {
+  text-align: center;
+  font-family: comic sans ms;
+  margin: 140px;
+  color:rgb(142, 18, 66)
+}
+
+.contact a {
+  color:rgb(142, 18, 66);
+  text-decoration: none;
+}
+
+.welcomepage {
+  text-align: center;
+  margin: 100px
+}
+
+.welcomepage h1 {
+  color:rgb(60, 56, 70);
+  font-family: comic sans ms
+}
+
+.welcomepage p {
+  color:rgb(120, 145, 67);
+  font-family: comic sans ms;
+}

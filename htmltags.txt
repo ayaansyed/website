@@ -1,0 +1,44 @@
+Unordered list : <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+add website ; <a href="url">link text</a>
+
+Add picture:<img src="Picture URL" alt="When you hover over pic" style="width:304px;height:228px;">
+
+Make font in css
+h1 {
+  font-family: Georgia, serif;
+}
+
+Make color css
+h1 {
+  color:rgb(48, 135, 154);
+}
+
+
+<div class="header">
+  <h2>Heading</h2>
+  <p>Paragraph</p>
+</div>
+
+.header {
+  color: #ffffff;
+}
+
+
+font size  h1 {
+  font-size: 60px;
+}
+
+
+
+.hero {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+}
+
+a:link {
+    color: red;
+}
